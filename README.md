@@ -2,6 +2,8 @@
 
 ### Senior Full-Stack Engineer | AI Systems & LLM Integration | Web3 Developer
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=180&section=header&text=AI%20%26%20Software%20Engineering&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="AI and Software Engineering banner" />
+
 I’m a software engineer with **9+ years of experience** building scalable web applications, AI-powered systems, backend platforms, and blockchain-integrated products.
 
 I specialize in turning complex technical requirements into practical, reliable, and maintainable software — from modern frontend experiences and backend APIs to AI integrations, automation workflows, and cloud deployments.
