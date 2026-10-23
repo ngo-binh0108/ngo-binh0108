@@ -187,7 +187,7 @@ I enjoy working across the entire engineering lifecycle: architecture, implement
 
 <!-- 07: CONTACT -->
 
-## ◈ 07 / Establish Connection
+## ◈  Establish Connection
 
 <div align="center">
 
@@ -217,14 +217,14 @@ I'm interested in connecting with engineers, founders, researchers, and teams wo
 
 <br/><br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:06B6D4,45:312E81,100:020617&section=footer"
-  width="100%"
-  alt="Futuristic neon footer"
-/>
+<div align="center">
 
-### `IMAGINE  ◈  ENGINEER  ◈  INNOVATE`
+![Futuristic Neon Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:020617&height=160&section=footer)
+
+### `IMAGINE ◈ ENGINEER ◈ INNOVATE`
 
 <sub>Senior Full-Stack Engineer · AI Systems & LLM Integration · Web3 Developer</sub>
 
 </div>
+
+ 
