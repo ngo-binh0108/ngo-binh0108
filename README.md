@@ -1,103 +1,102 @@
-
-
 <div align="center">
 
-<!-- HOLOGRAPHIC HEADER -->
-
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:111827,55:312e81,80:164e63,100:06b6d4&text=ENGINEERING%20THE%20FUTURE&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20WEB3&descSize=15&descAlignY=58&animation=fadeIn&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0F172A,45:312E81,70:164E63,100:06B6D4&text=BEYOND%20THE%20CODE&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20WEB3&descSize=15&descAlignY=55&animation=fadeIn&section=header"
   width="100%"
-  alt="Futuristic engineering portfolio banner"
+  alt="Futuristic holographic engineering banner"
 />
 
-<!-- ANIMATED INTRODUCTION -->
+<br/>
 
-<a href="https://github.com/ngo-binh0108">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=60&lines=Senior+Full-Stack+Engineer;AI+Systems+%26+LLM+Integration;Web3+%26+Blockchain+Developer;Building+Intelligent+Digital+Experiences"
-    alt="Animated professional introduction"
-  />
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=Senior+Full-Stack+Engineer;AI+Systems+%26+LLM+Integration;Web3+%26+Blockchain+Developer;Architecting+Intelligent+Digital+Experiences"
+  alt="Animated professional title"
+/>
 
 <br/>
 
-### `SYSTEM STATUS: BUILDING THE FUTURE`
+<img src="https://img.shields.io/badge/01-FULL--STACK_ENGINEERING-0B1020?style=for-the-badge&labelColor=111827&color=06B6D4" alt="Full-stack engineering"/>
+<img src="https://img.shields.io/badge/02-ARTIFICIAL_INTELLIGENCE-0B1020?style=for-the-badge&labelColor=111827&color=8B5CF6" alt="Artificial intelligence"/>
+<img src="https://img.shields.io/badge/03-DECENTRALIZED_TECH-0B1020?style=for-the-badge&labelColor=111827&color=EC4899" alt="Decentralized technology"/>
 
-*Engineering intelligent systems at the intersection of software, AI, and decentralized technology.*
+<br/><br/>
 
-<br/>
-
-<a href="https://github.com/ngo-binh0108">
-  <img src="https://img.shields.io/badge/PROFILE-EXPLORE-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Explore GitHub profile"/>
-</a>
-<a href="https://github.com/ngo-binh0108?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Explore repositories"/>
-</a>
-<a href="https://github.com/ngo-binh0108?tab=stars">
-  <img src="https://img.shields.io/badge/INTERESTS-OPEN_SOURCE-EC4899?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0B1020" alt="Open source interests"/>
-</a>
+`SYSTEM ONLINE`　 ◈　 `AI INTEGRATION`　 ◈　 `ENGINEERING MODE`
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
+<!-- 01: SPATIAL INTRODUCTION -->
 
-## ◈ 01 — Developer Identity
+## ◈  Spatial Identity
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 ### Senior Full-Stack Engineer
 
-I build modern software systems that combine robust backend architecture, intuitive user experiences, artificial intelligence, and emerging decentralized technologies.
+**AI Systems & LLM Integration | Web3 Developer**
 
-My work spans the complete development lifecycle—from system architecture and API design to frontend engineering, AI integration, infrastructure, and deployment.
+I engineer modern software systems that connect intelligent AI capabilities, scalable application architecture, and decentralized technologies.
 
-I enjoy turning complex technical ideas into practical, scalable, and production-oriented applications.
+My focus is building practical products—from full-stack applications and backend infrastructure to AI-powered workflows and blockchain integrations.
 
-**Current engineering interests**
+I enjoy working across the entire engineering lifecycle: architecture, implementation, integration, optimization, and deployment.
 
-- Intelligent applications powered by LLMs.
-- AI agents, inference pipelines, and AI system integration.
-- Full-stack platforms and scalable backend services.
-- Computer vision and deep learning applications.
-- Web3 infrastructure and decentralized ecosystems.
-- Developer tools, automation, and AI-assisted engineering.
+<br/>
+
+**Core philosophy**
+
+> Build intelligent systems. Engineer elegant solutions. Turn complex ideas into useful products.
 
 </td>
-<td width="40%" valign="top">
+<td width="38%" valign="top">
 
-### ◇ Core Focus
+<div align="center">
 
-**01 / SOFTWARE ENGINEERING**
+### ◇ ENGINEERING PROFILE
 
-Full-stack applications, system architecture, APIs, and scalable services.
+<img src="https://img.shields.io/badge/ROLE-Senior_Engineer-111827?style=flat-square&labelColor=0F172A&color=06B6D4" alt="Senior engineer"/>
 
-**02 / ARTIFICIAL INTELLIGENCE**
+<br/><br/>
 
-LLM integration, AI workflows, inference, and intelligent automation.
+<img src="https://img.shields.io/badge/FOCUS-AI_&_LLMs-111827?style=flat-square&labelColor=0F172A&color=8B5CF6" alt="AI and LLMs"/>
 
-**03 / WEB3 ENGINEERING**
+<br/><br/>
 
-Blockchain applications, decentralized systems, and Web3 infrastructure.
+<img src="https://img.shields.io/badge/DOMAIN-Full--Stack-111827?style=flat-square&labelColor=0F172A&color=06B6D4" alt="Full-stack"/>
 
-**04 / PRODUCT DEVELOPMENT**
+<br/><br/>
 
-From technical concept to working application and deployment.
+<img src="https://img.shields.io/badge/ECOSYSTEM-Web3-111827?style=flat-square&labelColor=0F172A&color=EC4899" alt="Web3"/>
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
-
-## ◈ 02 — Technology Matrix
+<br/>
 
 <div align="center">
 
-### `FULL-STACK ENGINEERING`
+<img src="https://img.shields.io/badge/ARCHITECTURE-Scalable_Systems-0B1020?style=for-the-badge&logo=databricks&logoColor=00F5FF" alt="Scalable systems"/>
+<img src="https://img.shields.io/badge/INTELLIGENCE-LLM_Integration-0B1020?style=for-the-badge&logo=openai&logoColor=8B5CF6" alt="LLM integration"/>
+<img src="https://img.shields.io/badge/INNOVATION-Web3-0B1020?style=for-the-badge&logo=ethereum&logoColor=EC4899" alt="Web3 innovation"/>
+
+</div>
+
+---
+
+<!-- 02: HOLOGRAPHIC TECHNOLOGY MATRIX -->
+
+## ◈  Holographic Technology Matrix
+
+<div align="center">
+
+### `LAYER 01` — APPLICATION ENGINEERING
 
 <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
@@ -107,29 +106,29 @@ From technical concept to working application and deployment.
 <img src="https://img.shields.io/badge/Node.js-0B1020?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
 <img src="https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
 
-<br/>
+<br/><br/>
 
-### `AI SYSTEMS & LLM INTEGRATION`
+### `LAYER 02` — ARTIFICIAL INTELLIGENCE
 
 <img src="https://img.shields.io/badge/PyTorch-0B1020?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/OpenCV-0B1020?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/Hugging_Face-0B1020?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/LLM_Integration-0B1020?style=for-the-badge&logo=openai&logoColor=00E5FF" alt="LLM integration"/>
-<img src="https://img.shields.io/badge/Deep_Learning-0B1020?style=for-the-badge&logo=pytorch&logoColor=FF6F61" alt="Deep learning"/>
+<img src="https://img.shields.io/badge/LLM_Systems-0B1020?style=for-the-badge&logo=openai&logoColor=00F5FF" alt="LLM systems"/>
+<img src="https://img.shields.io/badge/Deep_Learning-0B1020?style=for-the-badge&logo=pytorch&logoColor=EC4899" alt="Deep learning"/>
 
-<br/>
+<br/><br/>
 
-### `DATABASES & INFRASTRUCTURE`
+### `LAYER 03` — DATA & INFRASTRUCTURE
 
 <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
 <img src="https://img.shields.io/badge/Linux-0B1020?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-<img src="https://img.shields.io/badge/REST_APIs-0B1020?style=for-the-badge&logo=fastapi&logoColor=00E5FF" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/REST_APIs-0B1020?style=for-the-badge&logo=fastapi&logoColor=00F5FF" alt="REST APIs"/>
 
-<br/>
+<br/><br/>
 
-### `WEB3 & DECENTRALIZED TECHNOLOGY`
+### `LAYER 04` — DECENTRALIZED TECHNOLOGY
 
 <img src="https://img.shields.io/badge/Web3-0B1020?style=for-the-badge&logo=web3dotjs&logoColor=F16822" alt="Web3"/>
 <img src="https://img.shields.io/badge/Ethereum-0B1020?style=for-the-badge&logo=ethereum&logoColor=627EEA" alt="Ethereum"/>
@@ -140,88 +139,132 @@ From technical concept to working application and deployment.
 
 ---
 
-## ◈ 03 — Featured Engineering Projects
+<!-- 03: SPATIAL PROJECT PANELS -->
 
-*Selected work across intelligent applications, developer platforms, and software systems.*
+## ◈  Engineering Showcase
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◇ AI & Computer Vision
+<div align="center">
 
-**Intelligent Visual Analysis**
+### ◇ 01 — AI SYSTEMS
 
-Computer vision applications for object detection, tracking, image processing, and visual analytics.
+<img src="https://img.shields.io/badge/INTELLIGENCE_LAYER-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Intelligence layer"/>
 
-**Technical areas**
-- Object detection and tracking.
-- Image and video processing.
-- AI-powered visual analytics.
-- Model inference and application integration.
+</div>
 
-**Technologies:** Python · PyTorch · OpenCV
+**LLM Integration & Intelligent Applications**
 
-[Explore my repositories →](https://github.com/ngo-binh0108?tab=repositories)
+Engineering software that uses language models to support practical workflows, developer tools, and intelligent application experiences.
+
+**Focus areas**
+
+- LLM-powered application development.
+- Model API and inference integration.
+- AI workflow orchestration.
+- Backend services and system architecture.
+
+**Stack:** Python · FastAPI · TypeScript · React
+
+<div align="center">
+
+[**EXPLORE AI PROJECTS ↗**](https://github.com/ngo-binh0108?tab=repositories)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### ◇ LLM & AI Applications
+<div align="center">
 
-**Intelligent Software Systems**
+### ◇ 02 — COMPUTER VISION
 
-Applications that integrate large language models into useful software workflows and developer tools.
+<img src="https://img.shields.io/badge/VISUAL_INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=0B1020" alt="Visual intelligence"/>
 
-**Technical areas**
-- LLM-powered applications.
-- API and inference integration.
-- AI-assisted development workflows.
-- Backend services and application architecture.
+</div>
 
-**Technologies:** Python · TypeScript · FastAPI · React
+**AI-Powered Visual Analysis**
 
-[Explore my repositories →](https://github.com/ngo-binh0108?tab=repositories)
+Building computer vision applications for extracting useful information from images and videos.
+
+**Focus areas**
+
+- Object detection and tracking.
+- Image and video processing.
+- Visual analytics.
+- Deep learning inference pipelines.
+
+**Stack:** Python · PyTorch · OpenCV
+
+<div align="center">
+
+[**EXPLORE VISION PROJECTS ↗**](https://github.com/ngo-binh0108?tab=repositories)
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◇ Automatic License Plate Recognition
+<div align="center">
 
-**ALPR & Visual Recognition**
+### ◇ 03 — ALPR
 
-Computer vision software for vehicle license plate detection and recognition, with potential extensions for vehicle tracking and traffic analytics.
+<img src="https://img.shields.io/badge/VEHICLE_RECOGNITION-EC4899?style=for-the-badge&labelColor=0B1020" alt="Vehicle recognition"/>
 
-**Technical areas**
+</div>
+
+**Automatic License Plate Recognition**
+
+A computer vision project focused on recognizing vehicle license plates from visual data.
+
+**Potential capabilities**
+
 - License plate detection.
+- Character recognition.
 - Image and video processing.
-- Recognition pipeline integration.
-- Vehicle analytics.
+- Extensions for vehicle tracking and traffic analytics.
 
-**Technologies:** Python · Computer Vision · Deep Learning
+**Stack:** Python · Computer Vision · Deep Learning
 
-[Explore my repositories →](https://github.com/ngo-binh0108?tab=repositories)
+<div align="center">
+
+[**EXPLORE ALPR PROJECT ↗**](https://github.com/ngo-binh0108/ALPR)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### ◇ Full-Stack Platforms
+<div align="center">
 
-**End-to-End Product Engineering**
+### ◇ 04 — FULL-STACK PLATFORMS
 
-Web applications connecting polished frontend experiences with reliable backend services and data infrastructure.
+<img src="https://img.shields.io/badge/PRODUCT_ENGINEERING-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Product engineering"/>
 
-**Technical areas**
-- Responsive frontend applications.
+</div>
+
+**End-to-End Software Development**
+
+Developing web applications that connect user interfaces, backend APIs, databases, and external services.
+
+**Focus areas**
+
+- Frontend architecture.
 - REST APIs and backend services.
-- Database integration.
-- Deployment and system maintenance.
+- Database design and integration.
+- Deployment and maintenance.
 
-**Technologies:** React · Next.js · TypeScript · Node.js · PostgreSQL
+**Stack:** React · Next.js · TypeScript · Node.js · PostgreSQL
 
-[Explore my repositories →](https://github.com/ngo-binh0108?tab=repositories)
+<div align="center">
+
+[**EXPLORE FULL-STACK PROJECTS ↗**](https://github.com/ngo-binh0108?tab=repositories)
+
+</div>
 
 </td>
 </tr>
@@ -229,163 +272,194 @@ Web applications connecting polished frontend experiences with reliable backend 
 
 ---
 
-## ◈ 04 — Engineering Architecture
+<!-- 04: SPATIAL SYSTEM ARCHITECTURE -->
+
+## ◈ 04 / System Architecture
 
 <div align="center">
 
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:8B5CF6,100:EC4899"
+  width="100%"
+  alt="Neon separator"
+/>
+
+</div>
+
 ```text
-                    ┌───────────────────────────┐
-                    │       USER EXPERIENCE     │
-                    │     React / Next.js       │
-                    └─────────────┬─────────────┘
-                                  │
-                    ┌─────────────▼─────────────┐
-                    │     APPLICATION LAYER     │
-                    │  APIs / Auth / Workflows  │
-                    └─────────────┬─────────────┘
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-   ┌─────────▼────────┐ ┌─────────▼────────┐ ┌─────────▼────────┐
-   │    AI SYSTEMS    │ │   DATA SYSTEMS   │ │   WEB3 SYSTEMS   │
-   │                  │ │                  │ │                  │
-   │ LLM Integration  │ │ PostgreSQL       │ │ Smart Contracts  │
-   │ Inference        │ │ Data Pipelines   │ │ Blockchain APIs  │
-   │ AI Workflows     │ │ Storage          │ │ Decentralization │
-   └─────────┬────────┘ └─────────┬────────┘ └─────────┬────────┘
-             │                    │                    │
-             └────────────────────┼────────────────────┘
-                                  │
-                    ┌─────────────▼─────────────┐
-                    │      INFRASTRUCTURE      │
-                    │  Docker / Linux / Cloud  │
-                    └───────────────────────────┘
+╭──────────────────────────────────────────────────────────╮
+│                 EXPERIENCE LAYER                         │
+│             React  /  Next.js  /  TypeScript             │
+╰────────────────────────────┬─────────────────────────────╯
+                             │
+╭────────────────────────────▼─────────────────────────────╮
+│                  APPLICATION LAYER                       │
+│           APIs  /  Authentication  /  Workflows          │
+╰────────────────────────────┬─────────────────────────────╯
+                             │
+           ┌─────────────────┼─────────────────┐
+           │                 │                 │
+╭──────────▼────────╮ ╭──────▼─────────╮ ╭─────▼───────────╮
+│   AI INTELLIGENCE │ │  DATA SYSTEMS  │ │ WEB3 ECOSYSTEM  │
+│                   │ │                │ │                 │
+│ LLM Integration   │ │ PostgreSQL     │ │ Blockchain APIs │
+│ AI Workflows      │ │ Data Pipelines │ │ Smart Contracts │
+│ Model Inference   │ │ Storage        │ │ Decentralization│
+╰──────────┬────────╯ ╰──────┬─────────╯ ╰─────┬───────────╯
+           │                 │                 │
+           └─────────────────┼─────────────────┘
+                             │
+╭────────────────────────────▼─────────────────────────────╮
+│                 INFRASTRUCTURE LAYER                     │
+│               Docker  /  Linux  /  Cloud                │
+╰──────────────────────────────────────────────────────────╯
 ```
 
-*An illustrative view of the technologies and architectural areas I work with.*
+<div align="center">
+
+<sub>Illustrative architecture representing the engineering domains I work with—not a claim that every project uses every layer.</sub>
 
 </div>
 
 ---
 
-## ◈ 05 — GitHub Analytics
+<!-- 05: ANALYTICS -->
+
+## ◈ 05 / Developer Analytics
 
 <div align="center">
 
-### `DEVELOPER ACTIVITY`
-
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ngo-binh0108&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9&ring_color=00E5FF"
-  height="180"
-  alt="GitHub statistics"
+  src="https://github-readme-stats.vercel.app/api?username=ngo-binh0108&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=00E5FF&icon_color=8B5CF6&text_color=D1D5DB&ring_color=00E5FF"
+  width="49%"
+  alt="GitHub activity statistics"
+/><img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngo-binh0108&layout=compact&hide_border=true&langs_count=8&bg_color=0B1020&title_color=00E5FF&text_color=D1D5DB"
+  width="49%"
+  alt="Most used repository languages"
 />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngo-binh0108&layout=compact&hide_border=true&langs_count=8&bg_color=0B1020&title_color=00E5FF&text_color=C9D1D9"
-  height="180"
-  alt="Most used programming languages"
-/>
-
-<br/>
+<br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=ngo-binh0108&hide_border=true&background=0B1020&ring=00E5FF&fire=EC4899&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
+  src="https://streak-stats.demolab.com?user=ngo-binh0108&hide_border=true&background=0B1020&ring=00E5FF&fire=EC4899&currStreakLabel=00E5FF&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
   width="90%"
   alt="GitHub contribution streak"
 />
 
-<br/>
+<br/><br/>
 
 <img
   src="https://github-profile-trophy.vercel.app/?username=ngo-binh0108&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1"
   width="100%"
-  alt="GitHub profile trophies"
+  alt="GitHub achievement trophies"
 />
 
 </div>
 
-> **Note:** These cards are generated by external services. Their availability, caching, and supported statistics can vary. Language cards reflect detected repository languages, not necessarily overall proficiency.
+<sub>Statistics and trophy cards depend on external services and may be cached or temporarily unavailable. Repository language statistics do not measure actual skill proficiency.</sub>
 
 ---
 
-## ◈ 06 — Current Exploration
+<!-- 06: EXPLORATION -->
 
-<div align="center">
+## ◈ 06 / Exploration Radar
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
-### ◇ AI
+<div align="center">
 
-LLM Integration
+### ◇ AI SYSTEMS
 
-AI Agents
+<img src="https://img.shields.io/badge/01-00E5FF?style=for-the-badge&labelColor=0B1020" alt="AI systems"/>
 
-Inference Systems
+</div>
 
-</td>
-<td align="center" width="33%">
-
-### ◇ Engineering
-
-System Architecture
-
-Developer Tools
-
-Cloud Infrastructure
+- LLM integration.
+- AI-powered applications.
+- Model inference.
+- Intelligent automation.
 
 </td>
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
-### ◇ Web3
+<div align="center">
 
-Blockchain Systems
+### ◇ ENGINEERING
 
-Decentralized Apps
+<img src="https://img.shields.io/badge/02-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Engineering"/>
 
-AI + Web3
+</div>
+
+- System architecture.
+- Developer tools.
+- Cloud infrastructure.
+- End-to-end products.
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### ◇ WEB3
+
+<img src="https://img.shields.io/badge/03-EC4899?style=for-the-badge&labelColor=0B1020" alt="Web3"/>
+
+</div>
+
+- Blockchain applications.
+- Decentralized systems.
+- Smart contract ecosystems.
+- AI + Web3 opportunities.
 
 </td>
 </tr>
 </table>
 
-*Exploring practical ways to connect intelligent systems, scalable software, and decentralized infrastructure.*
-
-</div>
-
 ---
 
-## ◈ 07 — Let's Connect
+<!-- 07: CONTACT -->
+
+## ◈ 07 / Establish Connection
 
 <div align="center">
 
-### `OPEN TO GREAT IDEAS & ENGINEERING COLLABORATION`
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:8B5CF6,100:EC4899"
+  width="100%"
+  alt="Holographic divider"
+/>
 
-I'm interested in connecting with engineers, researchers, founders, and teams building meaningful technology.
+### Building intelligent systems. Engineering meaningful products.
 
-Whether the topic is AI integration, full-stack engineering, developer infrastructure, computer vision, or Web3, I'm always interested in exchanging ideas and exploring opportunities to build something useful.
+I'm interested in connecting with engineers, founders, researchers, and teams working on ambitious technology projects.
+
+**Areas of interest**
+
+`AI & LLMs`　`Full-Stack Engineering`　`Computer Vision`　`Web3`
 
 <br/>
 
 <a href="https://github.com/ngo-binh0108">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-00E5FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1020" alt="GitHub profile"/>
 </a>
 
 <a href="https://github.com/ngo-binh0108?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Repositories-Discover_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1020" alt="GitHub repositories"/>
 </a>
 
 <br/><br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:050816&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:06B6D4,45:312E81,100:020617&section=footer"
   width="100%"
-  alt="Neon gradient footer"
+  alt="Futuristic neon footer"
 />
 
-### `BUILD • INNOVATE • ITERATE`
+### `IMAGINE  ◈  ENGINEER  ◈  INNOVATE`
 
-<sub>Designed for a developer portfolio at the intersection of software engineering, AI, and decentralized technology.</sub>
+<sub>Senior Full-Stack Engineer · AI Systems & LLM Integration · Web3 Developer</sub>
 
 </div>
